@@ -23,4 +23,4 @@
 ![Resource Group](./Resources.png)
 
 **Test Connect**  
-![Test Connectivity](./7-Test Connectivity.png)
+![Test Connectivity](./7-Test.png)
