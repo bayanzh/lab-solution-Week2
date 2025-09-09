@@ -23,6 +23,6 @@
 
 
 
-12### Test Connect
+12**Test Connect**
 ![Test Connectivity](./7-Test Connectivity.png)
 
