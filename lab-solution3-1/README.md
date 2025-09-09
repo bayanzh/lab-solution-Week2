@@ -1,28 +1,26 @@
 # Lab Solution - Week 2
-# Provision VM with All Networking Components
 
+## Provision VM with All Networking Components
 
-1. **Create Resource Group**
-3. **Create Virtual Network (VNet) & Subnet**
-    ![VNet](./2-VNet.png)
+1. **Create Resource Group**  
 
-5. **Create Network Security Group (NSG)**
-   ![NSG](./3-NGC.png)
+2. **Create Virtual Network (VNet) & Subnet**  
+![VNet](./2-VNet.png)
 
-7. **Create Puplic IP Address**
-   ![Public IP](./4-PublicIP.png)
-   
-9. **Create Network Interface Card**
-       ![NIC](./5-NIC.png)
+3. **Create Network Security Group (NSG)**  
+![NSG](./3-NGC.png)
 
-10. **Create VM**
-    ![VM](./6-VM.png)
+4. **Create Public IP Address**  
+![Public IP](./4-PublicIP.png)
 
-   ## Resource
+5. **Create Network Interface Card (NIC)**  
+![NIC](./5-NIC.png)
+
+6. **Create VM**  
+![VM](./6-VM.png)
+
+## Resources
 ![Resource Group](./Resources.png)
 
-
-
-**Test Connect**
+**Test Connect**  
 ![Test Connectivity](./7-Test Connectivity.png)
-
