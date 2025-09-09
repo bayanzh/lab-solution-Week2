@@ -18,10 +18,11 @@
 10. **Create VM**
     ![VM](./6-VM.png)
 
-    ##Resource
-    ![Resource Group](./Resources.png)
+   ## Resource
+![Resource Group](./Resources.png)
 
 
-12. **Test Connect**
-    ![Test Connectivity](./7-Test Connectivity.png)
-  
+
+12### Test Connect
+![Test Connectivity](./7-Test Connectivity.png)
+
