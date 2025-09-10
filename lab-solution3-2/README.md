@@ -23,5 +23,5 @@
 ![Load Balancer 2](./6-Load-Balancer2.png)
 
 7. **Test the Load Balancer**  
-![Test Load Balancer](./7-Test%20the%20load.png)
+![Test Load Balancer](./6-Test-the-load.png)
 
